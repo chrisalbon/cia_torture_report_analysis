@@ -8,7 +8,7 @@ This is a quick analysis of the text of the CIA torture report.
 - data/sscistudy1.pdf - The original torture report in pdf
 - data/sscistudy1.txt - The raw text of the torture report
 - readme.md - This file
-- cia\_torture\_timeline.ipynb - An ipython file creating a timeline of the sentences in the report
+- cia\_torture\_timeline.ipynb - An ipython file creating a timeline of the sentences in the report. The file is viewable on IPython's notebook viewers [here](http://nbviewer.ipython.org/github/chrisalbon/cia_torture_report_analysis/blob/master/cia_torture_timeline.ipynb).
 - sentences\_mentioning\_dates.csv - A csv dataset containing all sentences in the report listing one or more years, organized by year.
 
 
