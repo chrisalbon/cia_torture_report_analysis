@@ -1,4 +1,4 @@
-# Quick Analysis Of The CIA Torture Report
+# A (Quick) Timeline Of The CIA Torture Report
 
 **Note: This code won't win any awards, but I wrote it in the middle of getting an alarm system installed and a dishwasher delievered.**
 
